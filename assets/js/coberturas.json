@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "nombre": "Responsabilidad Civil",
+        "letra": "A",
+        "rc": "Si",
+        "robo": "No",
+        "incendio": "No",
+        "accidente": "No",
+        "descripcion": "Es la cobertura básica y obligatoria para que todo automotor pueda circular, protegiendo al titular por los daños que el vehículo pueda ocasionar a terceros."
+    },
+
+    {
+        "id": 2,
+        "nombre": "Terceros Completo",
+        "letra": "C",
+        "rc": "Si",
+        "robo": "Total y Parcial",
+        "incendio": "Total y Parcial",
+        "accidente": "Solo destrucción total",
+        "descripcion": "El seguro perfecto para estar preparado ante los imprevistos de la calle. Es el indicado para quienes quieren un nivel de protección alto a un precio moderado."
+    },
+
+    {
+        "id": 3,
+        "nombre": "Todo Riesgo",
+        "letra": "D",
+        "rc": "Si",
+        "robo": "Total y Parcial",
+        "incendio": "Total y Parcial",
+        "accidente": "Total + Parcial (con Franquicia)",
+        "descripcion": "Es el seguro ideal para quienes prestan especial atención a los detalles y quieren la mejor protección para su vehículo. Es la cobertura por excelencia y la más completa de nuestro portfolio."
+    }
+]

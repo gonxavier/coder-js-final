@@ -1,0 +1,118 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    background-color: hsl(217, 54%, 11%);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+section {
+    padding: 30px;
+}
+
+.coti {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.coti h2 {
+    color: rgb(180, 220, 255);
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.coti p {
+    color: rgb(255, 255, 255);
+}
+
+.resultado {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 20vw;
+    border-radius: 20px;
+    background-color: hsl(215, 50%, 15%);
+    box-shadow: 0 0 20px 0 rgb(10, 15, 25);
+
+}
+
+.costo {
+    font-weight: 800;
+    font-size: 30px;
+}
+
+div {
+    margin: 15px 0;
+}
+
+.form-label {
+    color: white;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;   
+    color: white;
+    background-color: rgb(10, 20, 30);
+    border-radius: 10px;
+    box-shadow: 0 0 20px 0 rgb(30, 45, 70);
+}
+
+.cotiz-ok {
+    background: none;
+    background-color: greenyellow;
+    color: blue;
+    font-weight: 600;
+}
+
+.cotiz-error {
+    background: none;
+    background-color: orangered;
+    color: yellow;
+    font-weight: 600;
+}
+
+.card-cobertura {
+    text-align: center;
+    color: white;
+    padding: 0 20px;
+}
+
+.card-flex {
+    display: flex;
+    flex-direction: row;
+}
+
+.box-letra {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-letra {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    color: rgb(10, 20, 30);
+    height: 50px;
+    width: 50px;
+    font-size: 30px;
+    font-weight: 800;
+    border-radius: 5px;
+}
